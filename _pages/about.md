@@ -52,6 +52,8 @@ My current research focuses on wireless-based sensing and wearable-based sensing
 
 Conditionally accepted by SenSys'23.
 
+(Acceptance ratio: 34/179=19.0%)
+
 <!-- [SenSys 2023]
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -76,7 +78,7 @@ Accepted by IEEE Transactions on Circuits and Systems for Video Technology, 2023
 - Zhejiang University Second-prize Scholarship, 2018. 
 
 # Educations
-- *2021.09 - 2024.03 (Expected)*, Master, Group of Networked Sensing and Control (NesC), Zhejiang University, Hangzhou. 
+- *2021.09 - 2024.03 (Expected)*, Master, [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. 
 - *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4, Rank: 5/120)
 
 <!-- # 💬 Invited Talks
