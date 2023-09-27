@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lilin Xu's homepage"
+title                    : "Lilin Xu"
 description              : "   "
 repository               : "initxu/initxu.github.io"
 google_scholar_stats_use_cdn : true
