@@ -76,7 +76,7 @@ Accepted by IEEE Transactions on Circuits and Systems for Video Technology, 2023
 - AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022. 
 - College Academic Excellence First-prize Scholarship, 2022. 
 - Zhejiang University Second-prize Scholarship, 2020. 
-- Zhejiang University First-prize Scholarship, 2019.
+- Zhejiang University First-prize Scholarship (Top 3%), 2019.
 - Zhejiang University Second-prize Scholarship, 2018. 
 
 # Educations
