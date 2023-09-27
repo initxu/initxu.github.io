@@ -24,9 +24,10 @@ I received my B.E. degree from Control Science and Engineering College, Zhejiang
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 &nbsp;
 
-My research interest is **moblie sensing and AIoT (AI + Internet of Things)**, with a primary focus on related fields of developing artificial intelligence sensing systems for human's daily lives.
-My current research focuses on wireless-based sensing and wearable-based sensing, including human activity recognition, authentication, etc.
+<!-- My research interest is **mobile sensing and AIoT (AI + Internet of Things)**, with a primary focus on related fields of developing artificial intelligence sensing systems for human's daily lives.
+My current research focuses on wireless-based sensing and wearable-based sensing, including human activity recognition, authentication, etc. -->
 
+I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on related fields of developing artificial intelligence wireless-based sensing or wearable-based sensing systems for daily applications, including human activity recognition, authentication, etc.
 [[CV]()]
 
 # News
