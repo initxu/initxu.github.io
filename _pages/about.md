@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Shibo He](https://mypage.zju.edu.cn/shibohe) and [Prof. Chaojie Gu](https://person.zju.edu.cn/gucj).
+I am a master student at [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Shibo He](https://mypage.zju.edu.cn/shibohe) and [Prof. Chaojie Gu](https://chaojiegu.github.io/).
 I currently also work as a visting student with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nangyang Technological University.
 I received my B.E. degree from Control Science and Engineering College, Zhejiang University, China in 2021.
 
