@@ -73,6 +73,8 @@ Accepted by IEEE Transactions on Circuits and Systems for Video Technology, 2023
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # Selected Awards
+- Zhejiang University Award of Honor for Graduate, 2023.
+- Zhejiang University Award of Honor for Graduate, 2022.
 - AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022. 
 - College Academic Excellence First-prize Scholarship, 2022. 
 - Zhejiang University Second-prize Scholarship, 2020. 
