@@ -48,8 +48,9 @@ I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-[MESEN: Unleash Few-shot Unimodal Human Activity Recognition with Unlabeled Multimodal Data ]()
 
+<!-- [MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels]() -->
+MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels
 **Lilin Xu**, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
 
 Conditionally accepted by SenSys'23.
