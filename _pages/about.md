@@ -84,7 +84,7 @@ Accepted by IEEE Transactions on Circuits and Systems for Video Technology, 2023
 
 # Educations
 - *2021.09 - 2024.03 (Expected)*, Master, [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. 
-- *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4, Rank: 5/120)
+- *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4.00, Rank: 5/120)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
