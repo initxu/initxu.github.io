@@ -27,9 +27,9 @@ I received my B.E. degree from Control Science and Engineering College, Zhejiang
 <!-- My research interest is **mobile sensing and AIoT (AI + Internet of Things)**, with a primary focus on related fields of developing artificial intelligence sensing systems for human's daily lives.
 My current research focuses on wireless-based sensing and wearable-based sensing, including human activity recognition, authentication, etc. -->
 
-I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on related fields of developing artificial intelligence wireless-based sensing or wearable-based sensing systems for daily applications, including human activity recognition, authentication, etc.
+I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on related fields of developing artificial intelligence sensing systems for practical applications, including human activity recognition, authentication, etc.
 
-[[CV]()]
+[[CV](Lilin_CV_2310.pdf)]
 
 # News
 - [2023.09] &nbsp; A paper is conditionally accepted by SenSys 2023.
