@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Shibo He](https://mypage.zju.edu.cn/shibohe) and [Prof. Chaojie Gu](https://chaojiegu.github.io/).
+I am a master student at [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe).
 I currently also work as a visiting student with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nangyang Technological University.
 I received my B.E. degree from Control Science and Engineering College, Zhejiang University, China in 2021.
 
@@ -54,7 +54,7 @@ MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition wit
 
 **Lilin Xu**, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
 
-Conditionally accepted by SenSys'23.
+Accepted by SenSys'23.
 
 (Acceptance ratio: 34/179=19.0%)
 
