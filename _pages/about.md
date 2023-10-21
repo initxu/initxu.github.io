@@ -32,7 +32,7 @@ I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things)
 [[CV](Lilin_CV_2310.pdf)]
 
 # News
-- [2023.10] &nbsp; One workshop paper accepted to SenSys 2023.
+- [2023.10] &nbsp; One workshop paper is accepted to SenSys 2023.
 - [2023.09] &nbsp; One paper is conditionally accepted by SenSys 2023.
 - [2023.06] &nbsp; One paper is accpected by IEEE Transactions on Circuits and Systems for Video Technology. 
 
