@@ -81,7 +81,7 @@ Work in Progress: Enabling User Identification for mmWave-based Gesture Recognit
 
 **Lilin Xu**, Keyi Wang, Chaojie Gu*, Shibo He, Jiming Chen
 
-The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop ACM mmWaveSys 2023**)
+The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
 
 
 # Selected Awards
