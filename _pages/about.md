@@ -83,7 +83,6 @@ Work in Progress: Enabling User Identification for mmWave-based Gesture Recognit
 
 The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop ACM mmWaveSys 2023**)
 
-(Acceptance ratio: 34/179=19.0%)
 
 # Selected Awards
 - Zhejiang University Award of Honor for Graduate, 2023.
