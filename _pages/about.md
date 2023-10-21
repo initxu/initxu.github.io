@@ -32,8 +32,9 @@ I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things)
 [[CV](Lilin_CV_2310.pdf)]
 
 # News
-- [2023.09] &nbsp; A paper is conditionally accepted by SenSys 2023.
-- [2023.06] &nbsp; A paper is accpected by IEEE Transactions on Circuits and Systems for Video Technology. 
+- [2023.10] &nbsp; One workshop paper accepted to SenSys 2023.
+- [2023.09] &nbsp; One paper is conditionally accepted by SenSys 2023.
+- [2023.06] &nbsp; One paper is accpected by IEEE Transactions on Circuits and Systems for Video Technology. 
 
 # Publications 
 
@@ -54,7 +55,7 @@ MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition wit
 
 **Lilin Xu**, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
 
-Accepted by SenSys'23.
+The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
 (Acceptance ratio: 34/179=19.0%)
 
@@ -68,11 +69,21 @@ Accepted by SenSys'23.
 
 Bicheng Guo\*, **Lilin Xu**\* (*technically equal contribution), Tao Chen, Peng Ye, Shibo He, Haoyu Liu, Jiming Chen
 
-Accepted by IEEE Transactions on Circuits and Systems for Video Technology, 2023.
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
 [[**Paper**](TCSVT_NAR.pdf)]
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+&nbsp;
+
+Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems
+
+**Lilin Xu**, Keyi Wang, Chaojie Gu*, Shibo He, Jiming Chen
+
+The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop ACM mmWaveSys 2023**)
+
+(Acceptance ratio: 34/179=19.0%)
 
 # Selected Awards
 - Zhejiang University Award of Honor for Graduate, 2023.
