@@ -79,7 +79,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
 Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems
 
-**Lilin Xu**, Keyi Wang, Chaojie Gu*, Shibo He, Jiming Chen
+**Lilin Xu**, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
 
 The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
 
