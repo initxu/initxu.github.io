@@ -65,6 +65,14 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
 &nbsp;
 
+Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems
+
+**Lilin Xu**, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
+
+The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
+
+&nbsp;
+
 [Latency-aware Neural Architecture Performance Predictor with Query-to-Tier Technique](https://ieeexplore.ieee.org/document/10155437)
 
 Bicheng Guo\*, **Lilin Xu**\* (*technically equal contribution), Tao Chen, Peng Ye, Shibo He, Haoyu Liu, Jiming Chen
@@ -75,13 +83,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-&nbsp;
 
-Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems
-
-**Lilin Xu**, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
-
-The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
 
 
 # Selected Awards
