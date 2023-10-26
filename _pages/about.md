@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a master student at [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe).
-I currently also work as a visiting student with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nangyang Technological University.
+I currently also work as a visiting student with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nanyang Technological University.
 I received my B.E. degree from Control Science and Engineering College, Zhejiang University, China in 2021.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
