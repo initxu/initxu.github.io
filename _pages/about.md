@@ -53,7 +53,7 @@ I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things)
 <!-- [MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels]() -->
 MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels
 
-**Lilin Xu**, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
+<u>**Lilin Xu**</u>, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
 
 The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
@@ -69,7 +69,7 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
 Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems
 
-**Lilin Xu**, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
+<u>**Lilin Xu**</u>, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
 
 The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
 
