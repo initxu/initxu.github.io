@@ -29,7 +29,7 @@ My current research focuses on wireless-based sensing and wearable-based sensing
 
 I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on related fields of developing artificial intelligence sensing systems for practical applications, including human activity recognition, identification, etc.
 
-[[CV](Lilin_CV_2310.pdf)]
+<!-- [[CV](Lilin_CV_2310.pdf)] -->
 
 # News
 - [2023.10] &nbsp; One workshop paper is accepted to SenSys 2023.
