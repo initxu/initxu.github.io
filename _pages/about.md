@@ -53,7 +53,7 @@ I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things)
 <!-- [MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels]() -->
 MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels
 
-<u>**Lilin Xu**</u>, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
+**<u>Lilin Xu</u>**, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
 
 The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
@@ -69,7 +69,7 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
 Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems
 
-<u>**Lilin Xu**</u>, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
+**<u>Lilin Xu</u>**, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
 
 The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
 
@@ -79,9 +79,11 @@ The first ACM workshop on mmWave sensing systems and applications (**SenSys Work
 
 [Latency-aware Neural Architecture Performance Predictor with Query-to-Tier Technique](https://ieeexplore.ieee.org/document/10155437)
 
-Bicheng Guo\*, **Lilin Xu**\* (*technically equal contribution), Tao Chen, Peng Ye, Shibo He, Haoyu Liu, Jiming Chen
+Bicheng Guo\*, **<u>Lilin Xu</u>**\* (*technically equal contribution), Tao Chen, Peng Ye, Shibo He, Haoyu Liu, Jiming Chen
 
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
+
+&nbsp;
 
 [[**Paper**](https://drive.google.com/file/d/1my_zXp_wpNwXOfPox-A2T4YoeUsGF8h-/view?usp=drive_link)]
 
@@ -89,7 +91,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
 [Generalized Global Ranking-Aware Neural Architecture Ranker for Efficient Image Classifier Search](https://dl.acm.org/doi/abs/10.1145/3503161.3548149)
 
-Bicheng Guo, Tao Chen, Shibo He, Haoyu Liu, **Lilin Xu**, Peng Ye, Jiming Chen
+Bicheng Guo, Tao Chen, Shibo He, Haoyu Liu, **<u>Lilin Xu</u>**, Peng Ye, Jiming Chen
 
 The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
