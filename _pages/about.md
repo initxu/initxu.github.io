@@ -83,9 +83,9 @@ Bicheng Guo\*, **<u>Lilin Xu</u>**\* (*technically equal contribution), Tao Chen
 
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
+[[**Paper**](https://drive.google.com/file/d/1my_zXp_wpNwXOfPox-A2T4YoeUsGF8h-/view?usp=drive_link)]
 &nbsp;
 
-[[**Paper**](https://drive.google.com/file/d/1my_zXp_wpNwXOfPox-A2T4YoeUsGF8h-/view?usp=drive_link)]
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
