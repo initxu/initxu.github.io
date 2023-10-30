@@ -59,6 +59,8 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
 (Acceptance ratio: 34/179=19.0%)
 
+[[**Paper**](https://drive.google.com/file/d/1_EIMqBxOtewOhsxjRQtz2kMnNEluh5EP/view?usp=drive_link)]
+
 <!-- [SenSys 2023]
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -71,6 +73,8 @@ Work in Progress: Enabling User Identification for mmWave-based Gesture Recognit
 
 The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
 
+[[**Paper**](https://drive.google.com/file/d/1kEHQOymOYxsoZzjwEeU8ZV3ss0uwUsqy/view?usp=drive_link)]
+
 &nbsp;
 
 [Latency-aware Neural Architecture Performance Predictor with Query-to-Tier Technique](https://ieeexplore.ieee.org/document/10155437)
@@ -79,7 +83,7 @@ Bicheng Guo\*, **Lilin Xu**\* (*technically equal contribution), Tao Chen, Peng 
 
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
-[[**Paper**](TCSVT_NAR.pdf)]
+[[**Paper**](https://drive.google.com/file/d/1my_zXp_wpNwXOfPox-A2T4YoeUsGF8h-/view?usp=drive_link)]
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
