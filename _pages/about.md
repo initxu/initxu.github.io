@@ -27,7 +27,7 @@ I received my B.E. degree from Control Science and Engineering College, Zhejiang
 <!-- My research interest is **mobile sensing and AIoT (AI + Internet of Things)**, with a primary focus on related fields of developing artificial intelligence sensing systems for human's daily lives.
 My current research focuses on wireless-based sensing and wearable-based sensing, including human activity recognition, authentication, etc. -->
 
-I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on related fields of developing artificial intelligence sensing systems for practical applications, including human activity recognition, authentication, etc.
+I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on related fields of developing artificial intelligence sensing systems for practical applications, including human activity recognition, identification, etc.
 
 [[CV](Lilin_CV_2310.pdf)]
 
@@ -76,6 +76,7 @@ The first ACM workshop on mmWave sensing systems and applications (**SenSys Work
 [[**Paper**](https://drive.google.com/file/d/1kEHQOymOYxsoZzjwEeU8ZV3ss0uwUsqy/view?usp=drive_link)]
 
 &nbsp;
+
 
 [Latency-aware Neural Architecture Performance Predictor with Query-to-Tier Technique](https://ieeexplore.ieee.org/document/10155437)
 
