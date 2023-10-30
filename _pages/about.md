@@ -87,7 +87,13 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+[Generalized Global Ranking-Aware Neural Architecture Ranker for Efficient Image Classifier Search](https://dl.acm.org/doi/abs/10.1145/3503161.3548149)
 
+Bicheng Guo, Tao Chen, Shibo He, Haoyu Liu, **Lilin Xu**, Peng Ye, Jiming Chen
+
+The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
+
+[[**Paper**](https://drive.google.com/file/d/1Ns9GyJbPe8egdb5EfwczCnfLWlSSTONJ/view?usp=drive_link)]
 
 
 # Selected Awards
