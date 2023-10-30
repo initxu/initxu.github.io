@@ -57,7 +57,7 @@ MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition wit
 
 The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
-(Acceptance ratio: 34/179=19.0%)
+(Acceptance ratio: 35/179=19.5%)
 
 [[**Paper**](https://drive.google.com/file/d/1_EIMqBxOtewOhsxjRQtz2kMnNEluh5EP/view?usp=drive_link)]
 
