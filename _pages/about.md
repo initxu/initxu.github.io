@@ -108,7 +108,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 - Zhejiang University Second-prize Scholarship, 2018. 
 
 # Educations
-- *2021.09 - 2024.03 (Expected)*, Master, [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
+- *2021.09 - 2024.03 (Expected)*, Research Master, [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
 - *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4.0, Rank: 5/120)
 
 <!-- # 💬 Invited Talks
