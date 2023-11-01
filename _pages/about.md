@@ -51,7 +51,9 @@ I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things)
 </div>
 </div> -->
 
-<!-- [MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels]() -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/MESEN.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels
 
 **<u>Lilin Xu</u>**, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
@@ -61,12 +63,14 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 (Acceptance ratio: 35/179=19.5%)
 
 [[**Paper**](https://drive.google.com/file/d/1_EIMqBxOtewOhsxjRQtz2kMnNEluh5EP/view?usp=drive_link)]
+</div>
+</div>
 
-<!-- [SenSys 2023]
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- &nbsp; -->
 
-&nbsp;
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">mmWaveSys 2023</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems
 
@@ -75,9 +79,14 @@ Work in Progress: Enabling User Identification for mmWave-based Gesture Recognit
 The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
 
 [[**Paper**](https://drive.google.com/file/d/1kEHQOymOYxsoZzjwEeU8ZV3ss0uwUsqy/view?usp=drive_link)]
+</div>
+</div>
 
-&nbsp;
 
+<!-- &nbsp; -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/NARQ2T.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Latency-aware Neural Architecture Performance Predictor with Query-to-Tier Technique](https://ieeexplore.ieee.org/document/10155437)
 
@@ -86,11 +95,15 @@ Bicheng Guo\*, **<u>Lilin Xu</u>**\* (*technically equal contribution), Tao Chen
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
 [[**Paper**](https://drive.google.com/file/d/1my_zXp_wpNwXOfPox-A2T4YoeUsGF8h-/view?usp=drive_link)]
+</div>
+</div>
 
-&nbsp;
 
+<!-- 
+&nbsp; -->
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/NAR.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Generalized Global Ranking-Aware Neural Architecture Ranker for Efficient Image Classifier Search](https://dl.acm.org/doi/abs/10.1145/3503161.3548149)
 
@@ -99,6 +112,10 @@ Bicheng Guo, Tao Chen, Shibo He, Haoyu Liu, **<u>Lilin Xu</u>**, Peng Ye, Jiming
 The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 [[**Paper**](https://drive.google.com/file/d/1Ns9GyJbPe8egdb5EfwczCnfLWlSSTONJ/view?usp=drive_link)]
+</div>
+</div>
+
+
 
 
 # Selected Awards
