@@ -32,6 +32,7 @@ I am broadly interested in **mobile sensing and AIoT** (AI + Internet of Things)
 <!-- [[CV](Lilin_CV_2310.pdf)] -->
 
 # News
+- [2023.10] &nbsp; I have been selected for SenSys'23 SIG Travel Grant.
 - [2023.10] &nbsp; One workshop paper is accepted to SenSys 2023.
 - [2023.09] &nbsp; One paper is conditionally accepted by SenSys 2023.
 - [2023.06] &nbsp; One paper is accpected by IEEE Transactions on Circuits and Systems for Video Technology. 
@@ -101,6 +102,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 
 # Selected Awards
+- SenSys'23 SIG Travel Grant, 2023.
 - Zhejiang University Award of Honor for Graduate, 2023.
 - Zhejiang University Award of Honor for Graduate, 2022.
 - AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022. 
