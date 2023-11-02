@@ -90,7 +90,7 @@ The first ACM workshop on mmWave sensing systems and applications (**SenSys Work
 
 [Latency-aware Neural Architecture Performance Predictor with Query-to-Tier Technique](https://ieeexplore.ieee.org/document/10155437)
 
-Bicheng Guo\*, **<u>Lilin Xu</u>**\* (*technically equal contribution), Tao Chen, Peng Ye, Shibo He, Haoyu Liu, Jiming Chen
+Bicheng Guo\*, **<u>Lilin Xu</u>**\* (*equal contribution), Tao Chen, Peng Ye, Shibo He, Haoyu Liu, Jiming Chen
 
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
