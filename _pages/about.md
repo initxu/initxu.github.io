@@ -72,7 +72,7 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">mmWaveSys 2023</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems
+Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems (Short paper)
 
 **<u>Lilin Xu</u>**, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
 
