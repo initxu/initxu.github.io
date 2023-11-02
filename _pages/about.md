@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a master student at [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe).
-I currently also work under the supervision of [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nanyang Technological University.
+I currently also work with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nanyang Technological University.
 I received my B.E. degree from Control Science and Engineering College, Zhejiang University, China in 2021.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -129,7 +129,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 - Zhejiang University Second-prize Scholarship, 2018. 
 
 # Educations
-- *2021.09 - 2024.03 (Expected)*, Research Master, [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
+- *2021.09 - 2024.03 (Expected)*, Research Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
 - *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4.0, Rank: 5/120)
 
 <!-- # 💬 Invited Talks
@@ -137,4 +137,4 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # Visiting Experience
-- *2023.04 - 2023.10*, Visiting Research Student, [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
+- *2023.04 - 2023.10*, Visiting Research Student, advised by [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
