@@ -137,4 +137,4 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # Visiting Experience
-- *2023.04 - present*, Visiting Research Student, [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
+- *2023.04 - 2023.10*, Visiting Research Student, [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
