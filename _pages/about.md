@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe).
+I am a master student at [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe).
 I currently also work with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nanyang Technological University.
 I received my B.E. degree from Control Science and Engineering College, Zhejiang University, China in 2021.
 
@@ -129,7 +129,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 - Zhejiang University Second-prize Scholarship, 2018. 
 
 # Educations
-- *2021.09 - 2024.03 (Expected)*, Research Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NesC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
+- *2021.09 - 2024.03 (Expected)*, Research Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
 - *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4.0, Rank: 5/120)
 
 <!-- # 💬 Invited Talks
