@@ -60,9 +60,10 @@ MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition wit
 
 The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
-(Acceptance ratio: 35/179=19.5%)
+(Acceptance ratio: 34/179=19%)
 
 [[**Paper**](https://drive.google.com/file/d/1_EIMqBxOtewOhsxjRQtz2kMnNEluh5EP/view?usp=drive_link)]
+[[**Slides**](https://docs.google.com/presentation/d/1_NbLg2o-9lMAXxzXM5yYzomzu6LxZIQf/edit#slide=id.p24)]
 </div>
 </div>
 
@@ -72,13 +73,13 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">mmWaveSys 2023</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems (Short paper)
+[Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems (Short paper)](https://dl.acm.org/doi/10.1145/3628357.3629711)
 
 **<u>Lilin Xu</u>**, Keyi Wang, Chaojie Gu, Shibo He, Jiming Chen
 
 The first ACM workshop on mmWave sensing systems and applications (**SenSys Workshop mmWaveSys 2023**)
 
-[[**Paper**](https://drive.google.com/file/d/1kEHQOymOYxsoZzjwEeU8ZV3ss0uwUsqy/view?usp=drive_link)]
+[[**Paper**](https://drive.google.com/file/d/1m3BrvqYERVlSR_E8-ENc6vfz94C7qlUa/view)]
 </div>
 </div>
 
