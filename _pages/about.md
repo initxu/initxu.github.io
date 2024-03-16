@@ -121,14 +121,16 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 
 # Selected Awards
+- Columbia University Presidential Fellowship, 2024.
+- Zhejiang University Sun Youxian Scholarship (Top 1%), 2024.
+- Zhejiang University Outstanding Graduate Student, 2024.
+- Zhejiang University Wen Chixiang Scholarship, 2023.
 - SenSys'23 SIG Travel Grant, 2023.
-- Zhejiang University Award of Honor for Graduate, 2023.
-- Zhejiang University Award of Honor for Graduate, 2022.
+- Zhejiang University Award of Honor for Graduate, 2022 & 2023.
 - AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022. 
-- College Academic Excellence First-prize Scholarship, 2022. 
-- Zhejiang University Second-prize Scholarship, 2020. 
+- College Academic Excellence First-prize Scholarship, 2022 & 2023. 
 - Zhejiang University First-prize Scholarship (Top 3%), 2019.
-- Zhejiang University Second-prize Scholarship, 2018. 
+- Zhejiang University Second-prize Scholarship, 2018 & 2020. 
 
 # Educations
 - *2021.09 - 2024.03 (Expected)*, Research Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
