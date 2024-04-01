@@ -62,7 +62,7 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
 (Acceptance ratio: 34/179=19%)
 
-[[**Paper**](https://drive.google.com/file/d/1_EIMqBxOtewOhsxjRQtz2kMnNEluh5EP/view?usp=drive_link)]
+[[**Paper**](https://drive.google.com/file/d/1z3DZaSQvA-oUVUvesE5iM2RwUgTo0zAQ/view?usp=sharing)]
 [[**Slides**](https://docs.google.com/presentation/d/1_NbLg2o-9lMAXxzXM5yYzomzu6LxZIQf/edit#slide=id.p24)]
 </div>
 </div>
