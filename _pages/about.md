@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a master student at [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe).
-I currently also work with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nanyang Technological University.
+I also work with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nanyang Technological University.
 I received my B.E. degree from Control Science and Engineering College, Zhejiang University, China in 2021.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -27,7 +27,7 @@ I received my B.E. degree from Control Science and Engineering College, Zhejiang
 <!-- My research interest is **mobile sensing and AIoT (AI + Internet of Things)**, with a primary focus on related fields of developing artificial intelligence sensing systems for human's daily lives.
 My current research focuses on wireless-based sensing and wearable-based sensing, including human activity recognition, authentication, etc. -->
 
-My research insterests are centered around **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on developing artificial intelligence sensing systems for practical applications, including human activity recognition, gesture interaction, etc.
+<!-- My research insterests are centered around **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on developing artificial intelligence sensing systems for practical applications, including human activity recognition, gesture interaction, etc. -->
 
 <!-- [[CV](Lilin_CV_2310.pdf)] -->
 
