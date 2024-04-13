@@ -56,7 +56,7 @@ My research insterests are centered around **mobile sensing and IoT**, with a pr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/MESEN.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels
+[MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels](https://arxiv.org/abs/2404.01958)
 
 **<u>Lilin Xu</u>**, Chaojie Gu, Rui Tan, Shibo He, Jiming Chen
 
