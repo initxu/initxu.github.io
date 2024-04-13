@@ -29,13 +29,16 @@ My current research focuses on wireless-based sensing and wearable-based sensing
 
 <!-- My research insterests are centered around **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on developing artificial intelligence sensing systems for practical applications, including human activity recognition, gesture interaction, etc. -->
 
+My research insterests are centered around **mobile sensing and IoT**, with a primary focus on developing sensing systems for practical applications, including human activity recognition, gesture interaction, etc.
+
 <!-- [[CV](Lilin_CV_2310.pdf)] -->
 
 # News
+- [2024.04] &nbsp; One paper \[**GesturePrint**\] is accepted by ICDCS 2024.
 - [2023.10] &nbsp; I have been selected for SenSys'23 SIG Travel Grant.
 - [2023.10] &nbsp; One workshop paper is accepted to SenSys 2023.
-- [2023.09] &nbsp; One paper is conditionally accepted by SenSys 2023.
-- [2023.06] &nbsp; One paper is accpected by IEEE Transactions on Circuits and Systems for Video Technology. 
+- [2023.09] &nbsp; One paper \[**MESEN**\] is conditionally accepted by SenSys 2023.
+- [2023.06] &nbsp; One paper \[**NARQ2T**\] is accpected by IEEE Transactions on Circuits and Systems for Video Technology. 
 
 # Publications 
 
@@ -121,19 +124,19 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 
 # Selected Awards
-<!-- - Columbia University Presidential Fellowship, 2024. -->
-- Zhejiang University Sun Youxian Scholarship (Top 1%), 2024.
+- Columbia University Presidential Fellowship, 2024.
+- Zhejiang University Sun Youxian Scholarship (**Top 1%**), 2024.
 - Zhejiang University Outstanding Graduate Student, 2024.
-- Zhejiang University Wen Chixiang Scholarship, 2023.
+<!-- - Zhejiang University Wen Chixiang Scholarship, 2023. -->
 - SenSys'23 SIG Travel Grant, 2023.
 - Zhejiang University Award of Honor for Graduate, 2022 and 2023.
-- AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022. 
+<!-- - AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022.  -->
 - Academic Excellence First-prize Scholarship, 2022 and 2023. 
-- Zhejiang University First-prize Scholarship (Top 3%), 2019.
+- Zhejiang University First-prize Scholarship (**Top 3%**), 2019.
 - Zhejiang University Second-prize Scholarship, 2018 and 2020. 
 
 # Educations
-- *2021.09 - 2024.03 (Expected)*, Research Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
+- *2021.09 - 2024.03*, Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
 - *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4.0, Rank: 5/120)
 
 <!-- # 💬 Invited Talks
@@ -142,3 +145,6 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 # Visiting Experience
 - *2023.04 - 2023.10*, Visiting Research Student, advised by [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
+
+# Professional Services
+- Web Chair of ACM SenSys 2024
