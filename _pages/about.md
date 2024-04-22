@@ -28,7 +28,7 @@ My current research focuses on wireless-based sensing and wearable-based sensing
 
 <!-- My research insterests are centered around **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on developing artificial intelligence sensing systems for practical applications, including human activity recognition, gesture interaction, etc. -->
 
-My research insterests are centered around **mobile sensing and IoT**, with a primary focus on developing sensing systems for practical applications, including human activity recognition, gesture interaction, etc.
+My research interests are centered around **mobile sensing and IoT**, with a primary focus on developing sensing systems for practical applications, including human activity recognition, gesture interaction, etc.
 
 <!-- [[CV](Lilin_CV_2310.pdf)] -->
 
