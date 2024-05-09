@@ -145,5 +145,6 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 # Visiting Experience
 - *2023.04 - 2023.10*, Visiting Research Student, advised by [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
 
-# Professional Services
+# Services
 - Web Chair of ACM SenSys 2024
+- Student Volunteer of IPSN 2024
