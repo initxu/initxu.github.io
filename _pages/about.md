@@ -142,8 +142,8 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# Visiting Experience
-- *2023.04 - 2023.10*, Visiting Research Student, advised by [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
+<!-- # Visiting Experience
+- *2023.04 - 2023.10*, Visiting Research Student, advised by [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore. -->
 
 # Services
 - Web Chair of ACM SenSys 2024
