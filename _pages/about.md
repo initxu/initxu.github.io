@@ -53,6 +53,20 @@ My research interests are centered around **mobile sensing and IoT**, with a pri
 </div>
 </div> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2024</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GesturePrint: Enabling User Identification for mmWave-based Gesture Recognition Systems]
+
+**<u>Lilin Xu</u>**, Keyi Wang, Chaojie Gu, Xiuzhen Guo, Shibo He, Jiming Chen
+
+44th IEEE International Conference on Distributed Computing Systems (**ICDCS 2024**)
+
+(Acceptance ratio: 121/552=21.9%)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2023</div><img src='images/MESEN.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,19 +85,7 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
 <!-- &nbsp; -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2024</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[GesturePrint: Enabling User Identification for mmWave-based Gesture Recognition Systems]
-
-**<u>Lilin Xu</u>**, Keyi Wang, Chaojie Gu, Xiuzhen Guo, Shibo He, Jiming Chen
-
-44th IEEE International Conference on Distributed Computing Systems (**ICDCS 2024**)
-
-(Acceptance ratio: 121/552=21.9%)
-
-</div>
-</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">mmWaveSys 2023</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
