@@ -39,7 +39,7 @@ My research interests are centered around **mobile sensing and IoT**, with a pri
 - [2023.09] &nbsp; One paper \[**MESEN**\] is conditionally accepted by SenSys 2023.
 - [2023.06] &nbsp; One paper \[**NARQ2T**\] is accpected by IEEE Transactions on Circuits and Systems for Video Technology. 
 
-# Publications 
+# Seleted Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,8 +71,21 @@ The 21th ACM Conference on Embedded Networked Sensor Systems (**SenSys 2023**).
 
 <!-- &nbsp; -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2024</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">mmWaveSys 2023</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
+[GesturePrint: Enabling User Identification for mmWave-based Gesture Recognition Systems]
+
+**<u>Lilin Xu</u>**, Keyi Wang, Chaojie Gu, Xiuzhen Guo, Shibo He, Jiming Chen
+
+44th IEEE International Conference on Distributed Computing Systems (**ICDCS 2024**)
+
+(Acceptance ratio: 121/552=21.9%)
+
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">mmWaveSys 2023</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Work in Progress: Enabling User Identification for mmWave-based Gesture Recognition Systems (Short paper)](https://dl.acm.org/doi/10.1145/3628357.3629711)
@@ -84,7 +97,7 @@ The first ACM workshop on mmWave sensing systems and applications (**SenSys Work
 [[**Paper**](https://drive.google.com/file/d/1m3BrvqYERVlSR_E8-ENc6vfz94C7qlUa/view)]
 
 </div>
-</div>
+</div> -->
 
 
 <!-- &nbsp; -->
