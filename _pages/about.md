@@ -129,14 +129,18 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 <!-- - Zhejiang University Wen Chixiang Scholarship, 2023. -->
 - SenSys'23 SIG Travel Grant, 2023.
 - Zhejiang University Award of Honor for Graduate, 2022 and 2023.
-<!-- - AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022.  -->
+- AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022. 
 - Academic Excellence First-prize Scholarship, 2022 and 2023. 
 - Zhejiang University First-prize Scholarship (**Top 3%**), 2019.
 - Zhejiang University Second-prize Scholarship, 2018 and 2020. 
 
-# Educations
+# Education
 - *2021.09 - 2024.03*, Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
 - *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4.0, Rank: 5/120)
+
+# Visiting Experience
+- *2024.01 - Present*, Visiting Student, working with [Prof. Guoliang Xing](https://staff.ie.cuhk.edu.hk/~glxing/) and [Prof. Zhenyu Yan](https://yanzhenyu.com/), [CUHK AIoT Lab](https://aiot.ie.cuhk.edu.hk/publications.html),The Chinese University of Hong Kong, Hong Kong.
+- *2023.04 - 2023.10*, Visiting Research Student, working with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
