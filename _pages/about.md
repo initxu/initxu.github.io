@@ -30,7 +30,7 @@ My current research focuses on wireless-based sensing and wearable-based sensing
 
 My research interests are centered around **mobile sensing and IoT**, with a primary focus on developing sensing systems for practical applications, including human activity recognition, gesture interaction, etc.
 
-[[CV](../files/resume_xll_2406.pdf)]
+[[CV](../files/resume_xll.pdf)]
 
 # News
 - [2024.04] &nbsp; One paper \[**GesturePrint**\] is accepted by ICDCS 2024.
