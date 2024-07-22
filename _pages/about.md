@@ -138,6 +138,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 
 # Selected Awards
+- ICDCS'24 Travel Grant, 2024.
 - Columbia University Presidential Fellowship, 2024.
 - Zhejiang University Sun Youxian Scholarship (**Top 1%**), 2024.
 - Zhejiang University Outstanding Graduate Student, 2024.
