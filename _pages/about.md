@@ -33,6 +33,7 @@ My research interests are centered around **mobile sensing and IoT**, with a pri
 [[CV](../files/resume_xll.pdf)]
 
 # News
+- [2023.07] &nbsp; I have been selected for ICDCS'24 Travel Grant.
 - [2024.04] &nbsp; One paper \[**GesturePrint**\] is accepted by ICDCS 2024.
 - [2023.10] &nbsp; I have been selected for SenSys'23 SIG Travel Grant.
 - [2023.10] &nbsp; One workshop paper is accepted to SenSys 2023.
