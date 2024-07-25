@@ -65,6 +65,8 @@ GesturePrint: Enabling User Identification for mmWave-based Gesture Recognition 
 
 (Acceptance ratio: 121/552=21.9%)
 
+[[**Paper**](https://drive.google.com/file/d/10omI0tRNyEu7eehn34gu-tOmKX8nM3FV/view?usp=drive_link)]
+
 </div>
 </div>
 
