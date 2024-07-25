@@ -156,7 +156,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 - *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4.0, Rank: 5/120)
 
 # Visiting Experience
-- *2024.01 - 2024.07*, Visiting Student, working with [Prof. Guoliang Xing](https://staff.ie.cuhk.edu.hk/~glxing/) and [Prof. Zhenyu Yan](https://yanzhenyu.com/), [CUHK AIoT Lab](https://aiot.ie.cuhk.edu.hk/publications.html),The Chinese University of Hong Kong, Hong Kong.
+- *2024.01 - 2024.07*, Visiting Student, working with [Prof. Guoliang Xing](https://staff.ie.cuhk.edu.hk/~glxing/), [Prof. Zhenyu Yan](https://yanzhenyu.com/) and [Prof. Hongkai Chen](https://www.ie.cuhk.edu.hk/faculty/chen-hongkai/), [CUHK AIoT Lab](https://aiot.ie.cuhk.edu.hk/publications.html),The Chinese University of Hong Kong, Hong Kong.
 - *2023.04 - 2023.10*, Visiting Research Student, working with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), [NTU IoT Research Group](https://ntuiot.xyz/), Nangyang Technological University, Singapore.
 
 <!-- # 💬 Invited Talks
