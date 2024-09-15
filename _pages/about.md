@@ -66,6 +66,7 @@ GesturePrint: Enabling User Identification for mmWave-based Gesture Recognition 
 (Acceptance ratio: 121/552=21.9%)
 
 [[**Paper**](https://drive.google.com/file/d/10omI0tRNyEu7eehn34gu-tOmKX8nM3FV/view?usp=drive_link)]
+[[**Slides**](https://docs.google.com/presentation/d/1qKzYwQHoe0G8pL3o1ogkTlZKJSMtWbEj/edit?usp=sharing&ouid=104206933967473870526&rtpof=true&sd=true)]
 
 </div>
 </div>
@@ -117,7 +118,6 @@ Bicheng Guo\*, **<u>Lilin Xu</u>**\* (*equal contribution), Tao Chen, Peng Ye, S
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
 [[**Paper**](https://drive.google.com/file/d/1my_zXp_wpNwXOfPox-A2T4YoeUsGF8h-/view?usp=drive_link)]
-[[**Slides**](https://docs.google.com/presentation/d/1qKzYwQHoe0G8pL3o1ogkTlZKJSMtWbEj/edit?usp=sharing&ouid=104206933967473870526&rtpof=true&sd=true)]
 
 </div>
 </div>
