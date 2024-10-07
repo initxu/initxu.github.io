@@ -33,7 +33,7 @@ My research interests are centered around **mobile sensing and IoT**, with a pri
 <!-- [[CV](../files/resume_xll.pdf)] -->
 
 # News
-- [2023.07] &nbsp; I have been selected for ICDCS'24 Travel Grant.
+- [2024.07] &nbsp; I have been selected for ICDCS'24 Travel Grant.
 - [2024.04] &nbsp; One paper \[**GesturePrint**\] is accepted by ICDCS 2024.
 - [2023.10] &nbsp; I have been selected for SenSys'23 SIG Travel Grant.
 - [2023.10] &nbsp; One workshop paper is accepted to SenSys 2023.
@@ -67,6 +67,7 @@ GesturePrint: Enabling User Identification for mmWave-based Gesture Recognition 
 
 [[**Paper**](https://drive.google.com/file/d/10omI0tRNyEu7eehn34gu-tOmKX8nM3FV/view?usp=drive_link)]
 [[**Slides**](https://docs.google.com/presentation/d/1qKzYwQHoe0G8pL3o1ogkTlZKJSMtWbEj/edit?usp=sharing&ouid=104206933967473870526&rtpof=true&sd=true)]
+[[**Dataset**]()]
 
 </div>
 </div>
