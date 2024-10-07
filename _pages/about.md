@@ -57,7 +57,7 @@ My research interests are centered around **mobile sensing and IoT**, with a pri
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2024</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-GesturePrint: Enabling User Identification for mmWave-based Gesture Recognition Systems
+[GesturePrint: Enabling User Identification for mmWave-based Gesture Recognition Systems](https://www.computer.org/csdl/proceedings-article/icdcs/2024/860500b074/1ZCgG6sgoQ8)
 
 **<u>Lilin Xu</u>**, Keyi Wang, Chaojie Gu, Xiuzhen Guo, Shibo He, Jiming Chen
 
