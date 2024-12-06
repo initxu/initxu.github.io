@@ -64,7 +64,7 @@ My research interests are centered around **mobile computing and AIoT** (AI + Io
 
 Bufang Yang, Siyang Jiang, **<u>Lilin Xu</u>**, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, Zhenyu Yan
 
-44th IEEE International Conference on Distributed Computing Systems (**ICDCS 2024**)
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT 2024**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
 
