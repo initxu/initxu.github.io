@@ -33,6 +33,8 @@ My research interests are centered around **mobile sensing and IoT**, with a pri
 <!-- [[CV](../files/resume_xll.pdf)] -->
 
 # News
+- [2024.11] &nbsp; One paper \[**Listen to Your Face**\] is accepted by ACM Transactions on Sensor Networks.
+- [2024.10] &nbsp; One paper \[**DrHouse**\] is accepted by IMWUT.
 - [2024.07] &nbsp; I have been selected for ICDCS'24 Travel Grant.
 - [2024.04] &nbsp; One paper \[**GesturePrint**\] is accepted by ICDCS 2024.
 - [2023.10] &nbsp; I have been selected for SenSys'23 SIG Travel Grant.
@@ -114,7 +116,7 @@ The first ACM workshop on mmWave sensing systems and applications (**SenSys Work
 
 [Latency-aware Neural Architecture Performance Predictor with Query-to-Tier Technique](https://ieeexplore.ieee.org/document/10155437)
 
-Bicheng Guo\*, **<u>Lilin Xu</u>**\* (*equal contribution), Tao Chen, Peng Ye, Shibo He, Haoyu Liu, Jiming Chen
+Bicheng Guo, **<u>Lilin Xu</u>**, Tao Chen, Peng Ye, Shibo He, Haoyu Liu, Jiming Chen
 
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**, 2023)
 
@@ -144,6 +146,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 
 # Selected Awards
+- MobiCom'24 Travel Grant, 2024.
 - ICDCS'24 Travel Grant, 2024.
 - Columbia University Presidential Fellowship, 2024.
 - Zhejiang University Sun Youxian Scholarship (**Top 1%**), 2024.
@@ -154,7 +157,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 - AI Studio 2022 CVPR Track2: Performance Estimation Track, Top 10 Award (8/190), 2022. 
 - Academic Excellence First-prize Scholarship, 2022 and 2023. 
 - Zhejiang University First-prize Scholarship (**Top 3%**), 2019.
-- Zhejiang University Second-prize Scholarship, 2018 and 2020. 
+<!-- - Zhejiang University Second-prize Scholarship, 2018 and 2020.  -->
 
 # Education
 - *2021.09 - 2024.03*, Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.91/4.0)
