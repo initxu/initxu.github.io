@@ -57,14 +57,14 @@ My research interests are centered around **mobile computing and AIoT** (AI + Io
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.pdf' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://dl.acm.org/doi/abs/10.1145/3699765)
 
 Bufang Yang, Siyang Jiang, **<u>Lilin Xu</u>**, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, Zhenyu Yan
 
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT 2024**)
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 
 [[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
 
