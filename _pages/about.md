@@ -28,12 +28,12 @@ My current research focuses on wireless-based sensing and wearable-based sensing
 
 <!-- My research insterests are centered around **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on developing artificial intelligence sensing systems for practical applications, including human activity recognition, gesture interaction, etc. -->
 
-My research interests are centered around **mobile sensing and IoT**, with a primary focus on developing sensing systems for practical applications, including human activity recognition, gesture interaction, etc.
+My research interests are centered around **mobile computing and AIoT** (AI + IoT), with a primary focus on developing developing intelligent sensing systems at the edge for practical applications.
 
 <!-- [[CV](../files/resume_xll.pdf)] -->
 
 # News
-- [2024.11] &nbsp; One paper \[**Listen to Your Face**\] is accepted by ACM Transactions on Sensor Networks.
+- [2024.11] &nbsp; One paper \[**SoundFace**\] is accepted by ACM Transactions on Sensor Networks.
 - [2024.10] &nbsp; One paper \[**DrHouse**\] is accepted by IMWUT.
 - [2024.07] &nbsp; I have been selected for ICDCS'24 Travel Grant.
 - [2024.04] &nbsp; One paper \[**GesturePrint**\] is accepted by ICDCS 2024.
@@ -55,6 +55,22 @@ My research interests are centered around **mobile sensing and IoT**, with a pri
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.pdf' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge](https://dl.acm.org/doi/abs/10.1145/3699765)
+
+Bufang Yang, Siyang Jiang, **<u>Lilin Xu</u>**, Kaiwei Liu, Hai Li, Guoliang Xing, Hongkai Chen, Xiaofan Jiang, Zhenyu Yan
+
+44th IEEE International Conference on Distributed Computing Systems (**ICDCS 2024**)
+
+[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3699765)]
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2024</div><img src='images/GesturePrint.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
