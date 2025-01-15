@@ -163,6 +163,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 
 # Selected Awards
+- CAA Outstanding Master's Thesis, 2024.
 - MobiCom'24 Travel Grant, 2024.
 - ICDCS'24 Travel Grant, 2024.
 - Columbia University Presidential Fellowship, 2024.
@@ -177,6 +178,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 <!-- - Zhejiang University Second-prize Scholarship, 2018 and 2020.  -->
 
 # Education
+- *2024.09 - present*, PhD, advised by [Prof. Fred Jiang](http://fredjiang.com/), [ICSL Lab](http://icsl.ee.columbia.edu/), Columbia University, New York. (GPA: 4.0/4.0)
 - *2021.09 - 2024.03*, Master, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe), [Group of Networked Sensing and Control (NeSC)](http://nesc.zju.edu.cn/#/), Zhejiang University, Hangzhou. (GPA: 3.92/4.0)
 - *2017.09 - 2021.06*, Undergraduate, Control Science and Engineering College, Zhejiang Univeristy, Hangzhou. (GPA: 3.95/4.0, Rank: 5/120)
 
