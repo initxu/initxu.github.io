@@ -33,7 +33,7 @@ My research interests are centered around **mobile computing and AIoT** (AI + Io
 <!-- [[CV](../files/resume_xll.pdf)] -->
 
 # News
-- [2024.12] &nbsp; I have been awarded CAA Outstanding Master's Thesis.
+- [2025.01] &nbsp; I have been awarded CAA Outstanding Master's Thesis.
 - [2024.11] &nbsp; One paper \[**SoundFace**\] is accepted by ACM Transactions on Sensor Networks.
 - [2024.10] &nbsp; One paper \[**DrHouse**\] is accepted by IMWUT.
 - [2024.07] &nbsp; I have been selected for ICDCS'24 Travel Grant.
