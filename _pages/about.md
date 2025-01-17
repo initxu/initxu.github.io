@@ -163,7 +163,7 @@ The 30th ACM International Conference on Multimedia (**ACM MM**, 2022)
 
 
 # Selected Awards
-- CAA Outstanding Master's Thesis, 2024.
+- CAA Outstanding Master's Thesis, 2025.
 - MobiCom'24 Travel Grant, 2024.
 - ICDCS'24 Travel Grant, 2024.
 - Columbia University Presidential Fellowship, 2024.
