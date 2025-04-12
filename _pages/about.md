@@ -28,14 +28,14 @@ My current research focuses on wireless-based sensing and wearable-based sensing
 
 <!-- My research insterests are centered around **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on developing artificial intelligence sensing systems for practical applications, including human activity recognition, gesture interaction, etc. -->
 
-My research interests are centered around **mobile computing and AIoT** (AI + IoT), with a primary focus on developing intelligent sensing systems at the edge for practical applications.
+My research interests are centered around **mobile computing and AIoT** (AI + IoT), with a primary focus on developing intelligent sensing systems for practical applications. Recently, I have been working on integrating LLMs into sensing systems to effectively exploit the potential of sensing systems and real-world sensor data. 
 
 <!-- [[CV](../files/resume_xll.pdf)] -->
 
 # News
 - [2025.01] &nbsp; One paper \[**TaskSense**\] is conditionally accepted by SenSys 2025.
 - [2025.01] &nbsp; I have been awarded CAA Outstanding Master's Thesis.
-- [2024.12] &nbsp; One paper \[**SocialMind**\] is accepted by IMWUT (to appear).
+- [2024.12] &nbsp; One paper \[**SocialMind**\] is accepted by IMWUT.
 - [2024.11] &nbsp; One paper \[**SoundFace**\] is accepted by ACM Transactions on Sensor Networks.
 - [2024.10] &nbsp; One paper \[**DrHouse**\] is accepted by IMWUT.
 - [2024.07] &nbsp; I have been selected for ICDCS'24 Travel Grant.
@@ -59,6 +59,22 @@ My research interests are centered around **mobile computing and AIoT** (AI + Io
 </div>
 </div> -->
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/SocialMind.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SocialMind: LLM-based Proactive AR Social Assistive System with Human-like Perception for In-situ Live Interactions](https://dl.acm.org/doi/abs/10.1145/3712286)
+
+Bufang Yang*, Yunqi Guo*, **<u>Lilin Xu</u>*** (*equal contribution), Zhenyu Yan, Hongkai Chen, Guoliang Xing, Xiaofan Jiang
+
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
+
+[[**Paper**](https://dl.acm.org/doi/abs/10.1145/3712286)]
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/DrHouse.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
