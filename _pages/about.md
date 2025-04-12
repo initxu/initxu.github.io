@@ -20,13 +20,6 @@ redirect_from:
 I am a first-year phd student in Columbia University, advised by [Prof. Fred Jiang](http://fredjiang.com/). I obtained my M.E. degree from Control Science and Engineering College, Zhejiang University in 2024, advised by [Prof. Chaojie Gu](https://chaojiegu.github.io/) and [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe). I also work with [Prof. Rui Tan](https://personal.ntu.edu.sg/tanrui/), Nanyang Technological University.
 I received my B.E. degree from Control Science and Engineering College, Zhejiang University in 2021.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-<!-- &nbsp; -->
-
-<!-- My research interest is **mobile sensing and AIoT (AI + Internet of Things)**, with a primary focus on related fields of developing artificial intelligence sensing systems for human's daily lives.
-My current research focuses on wireless-based sensing and wearable-based sensing, including human activity recognition, authentication, etc. -->
-
-<!-- My research insterests are centered around **mobile sensing and AIoT** (AI + Internet of Things), with a primary focus on developing artificial intelligence sensing systems for practical applications, including human activity recognition, gesture interaction, etc. -->
 
 My research interests are centered around **mobile computing and AIoT** (AI + IoT), with a primary focus on developing intelligent sensing systems for practical applications. Recently, I have been working on integrating LLMs into sensing systems to effectively exploit the potential of sensing systems and real-world sensor data. 
 
@@ -43,7 +36,7 @@ My research interests are centered around **mobile computing and AIoT** (AI + Io
 - [2023.10] &nbsp; I have been selected for SenSys'23 SIG Travel Grant.
 - [2023.10] &nbsp; One workshop paper is accepted to SenSys 2023.
 - [2023.09] &nbsp; One paper \[**MESEN**\] is conditionally accepted by SenSys 2023.
-- [2023.06] &nbsp; One paper \[**NARQ2T**\] is accpected by IEEE Transactions on Circuits and Systems for Video Technology. 
+<!-- - [2023.06] &nbsp; One paper \[**NARQ2T**\] is accpected by IEEE Transactions on Circuits and Systems for Video Technology.  -->
 
 # Seleted Publications 
 
@@ -70,7 +63,7 @@ Bufang Yang*, Yunqi Guo*, **<u>Lilin Xu</u>*** (*equal contribution), Zhenyu Yan
 
 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)
 
-[[**Paper**](https://dl.acm.org/doi/abs/10.1145/3712286)]
+[[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3712286)]
 
 
 </div>
